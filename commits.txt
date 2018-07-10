@@ -1,0 +1,11 @@
+commit 48bb4d3a1efec6e53a9effd2259d7a2687eee762
+Author: Your Name <you@example.com>
+Date:   Tue Jul 10 10:19:46 2018 -0500
+
+    se agrego un boton de envio
+
+commit 31aa54ff7b8301b892b5830d8a956fb7e690c84d
+Author: Your Name <you@example.com>
+Date:   Tue Jul 10 10:18:29 2018 -0500
+
+    se elimino un boton de envio

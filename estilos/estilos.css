@@ -1,0 +1,10 @@
+*{margin: 0; padding: auto;}
+
+body{
+	background-color: gray;
+}
+
+form ,h1{
+	text-align: center;
+
+}
